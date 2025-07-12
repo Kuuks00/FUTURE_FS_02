@@ -1,1 +1,2 @@
-# Future Intern Task 2 Repo - Ecommerce
+# FUTURE_FS_02
+## DEVELOP A MINI E-COMMERCE STOREFRONT - Task 2
